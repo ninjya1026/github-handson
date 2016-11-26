@@ -219,3 +219,5 @@ class: center, middle
 * 自動テストとの連携
 
 
+---
+#イタズラ
